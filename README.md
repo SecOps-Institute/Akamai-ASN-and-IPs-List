@@ -5,4 +5,4 @@ A list of all Akamai Servers using the ASN Numbers from RADB Lookups
 
 ## Things to do
 1. Make the IP List exhaustive
-2. Summarize the networks. Currently they are not summarised and could be having overlapping subnets
+2. ~~Summarize the networks. Currently they are not summarised and could be having overlapping subnets~~
